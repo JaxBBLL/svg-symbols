@@ -1,0 +1,19 @@
+{
+  "name": "svg-symbols",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "JaxBBLL",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-svg-symbols": "^3.2.3",
+    "gulp-svgmin": "^3.0.0"
+  }
+}
